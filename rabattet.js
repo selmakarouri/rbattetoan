@@ -35,8 +35,8 @@ if (window.location.href.startsWith(vtvUrlPrefix)) {
   (async function() {
     'use strict';
 
-    var vtvUrlPrefix = "www.blsspainmorocco.net/MAR/bls/vtv";
-    var thirdUrlPrefix = "www.blsspainmorocco.net/MAR/bls/vt";
+   var vtvUrlPrefix = "https://www.blsspainmorocco.net/MAR/bls/vtv";
+var thirdUrlPrefix = "https://www.blsspainmorocco.net/MAR/bls/vt";
 
     if (window.location.href.startsWith(vtvUrlPrefix)) {
         const btnVerify = document.querySelector("#btnVerify");
@@ -208,8 +208,8 @@ const AgadirPremiumButton = createButton("Rabat Premium", function() {
   (async function() {
     'use strict';
 
-    var vtvUrlPrefix = "https://morocco.blsportugal.com/MAR/bls/vtv";
-    var thirdUrlPrefix = "https://morocco.blsportugal.com/MAR/bls/vt";
+    var vtvUrlPrefix = "https://www.blsspainmorocco.net/MAR/bls/vtv";
+    var thirdUrlPrefix = "https://www.blsspainmorocco.net/MAR/bls/vt";;
 
     if (window.location.href.startsWith(vtvUrlPrefix)) {
         const btnVerify = document.querySelector("#btnVerify");
@@ -381,9 +381,9 @@ const AgadirPremiumButton = createButton("Rabat Premium", function() {
      (async function() {
     'use strict';
 
-    var vtvUrlPrefix = "https://morocco.blsportugal.com/MAR/bls/vtv";
-    var thirdUrlPrefix = "https://morocco.blsportugal.com/MAR/bls/vt";
-
+   var vtvUrlPrefix = "https://www.blsspainmorocco.net/MAR/bls/vtv";
+var thirdUrlPrefix = "https://www.blsspainmorocco.net/MAR/bls/vt";
+      
     if (window.location.href.startsWith(vtvUrlPrefix)) {
         const btnVerify = document.querySelector("#btnVerify");
         if (btnVerify) {
@@ -552,8 +552,8 @@ const AgadirPremiumButton = createButton("Rabat Premium", function() {
        (async function() {
     'use strict';
 
-    var vtvUrlPrefix = "https://morocco.blsportugal.com/MAR/bls/vtv";
-    var thirdUrlPrefix = "https://morocco.blsportugal.com/MAR/bls/vt";
+    var vtvUrlPrefix = "https://www.blsspainmorocco.net/MAR/bls/vtv";
+    var thirdUrlPrefix = "https://www.blsspainmorocco.net/MAR/bls/vt";
 
     if (window.location.href.startsWith(vtvUrlPrefix)) {
         const btnVerify = document.querySelector("#btnVerify");
